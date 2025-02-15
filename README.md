@@ -1,5 +1,13 @@
-
 # Rainfall-Prediction
+**Course Title:** Machine Learning Lab 
+
+**Course Code:** CSE-5211
+
+**Author:** Sahbaj Bin Seraj, Sidratul Muntaha
+
+**Supervised By:**  **Md. Mynoddin**
+
+Assistant Processor, Department of CSE, Rangamati Science and Technology University.
 # Rainfall Prediction Using Machine Learning
 ## 1. Introduction
 
@@ -13,7 +21,7 @@
 
 ## 2. Methodology
 
-## 2.1 Data Overview
+### 2.1 Data Overview
 **Dataset Shape:** 366 rows, 12 columns.
 
 **Features:** Day, pressure, max temperature, temperature, min temperature, dew point, humidity, cloud, rainfall, sunshine, wind direction, wind speed.
@@ -76,4 +84,3 @@ Class 1 ----------- 0.88 ------- 0.90 ------ 0.89 -------- 50
 
 ## 5. References
 [1] Dataset Source: [https://www.geeksforgeeks.org/rainfall-prediction-using-machine-learning-python/]
-[2] GeeksforGeeks Tutorial: [https://www.geeksforgeeks.org/rainfall-prediction-using-machine-learning-python/]
